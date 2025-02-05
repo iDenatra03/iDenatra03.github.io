@@ -1,7 +1,10 @@
 body {
     background-color: yellow;
-    color: navy;
+    color: rgb(255, 255, 255);
     font-family: Arial, sans-serif;
+    border: 10px solid red; 
+    padding: 20px; 
+    margin: 20px;
 }
 
 .container {
