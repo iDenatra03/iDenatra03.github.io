@@ -5,16 +5,25 @@ body {
     border: 10px solid rgb(255, 0, 0); 
     padding: 0px; 
     margin: 0px;
+    min-height: 100dvh;
+    box-sizing: border-box;
+
 }
 
 h2 {
     color: rgb(255, 0, 0);
+    padding: 20px; 
+    margin: 20px;
 }
 
 p {
     color: blue;
+    padding: 20px; 
+    margin: 20px;
 }
 
 .center {
     text-align: center;
+    padding: 20px; 
+    margin: 20px;
 }
